@@ -1,2 +1,2 @@
-# req-sanitizr
-Sanitize `req.body` values in Node.js
+# req-sanitizr Express Middleware
+Sanitize `req.body` values in Express
